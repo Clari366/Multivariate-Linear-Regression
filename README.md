@@ -28,6 +28,8 @@ Make a prediction for new data (e.g., Volume = 100, Weight = 929).
 
 ## Program:
 ```
+developed by: clarissa k
+register no: 24009830
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("C:\\Users\\admin\\Downloads\\car.csv")
